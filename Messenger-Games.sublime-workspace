@@ -1,0 +1,813 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"find",
+				"find_element_by_name\tfunction"
+			],
+			[
+				"upd",
+				"updateHistory\tparam"
+			],
+			[
+				"upda",
+				"getUpdateHistory"
+			],
+			[
+				"grad",
+				"gradingPeriod\tstatement"
+			],
+			[
+				"cla",
+				"class2"
+			],
+			[
+				"class",
+				"class2"
+			],
+			[
+				"max",
+				"maxGradeLength"
+			],
+			[
+				"update",
+				"updateHistory"
+			],
+			[
+				"pat",
+				"pathImg"
+			],
+			[
+				"path",
+				"path"
+			],
+			[
+				"coin",
+				"coinArray"
+			],
+			[
+				"boo",
+				"boolInd"
+			],
+			[
+				"pathc",
+				"pathColor"
+			],
+			[
+				"img",
+				"img"
+			],
+			[
+				"pathco",
+				"pathMarkerColor"
+			],
+			[
+				"pta",
+				"pathImg"
+			],
+			[
+				"play",
+				"playAgain"
+			],
+			[
+				"num",
+				"numChoice"
+			],
+			[
+				"emb",
+				"embedIndex"
+			],
+			[
+				"em",
+				"embedUL"
+			],
+			[
+				"str",
+				"stringLinks"
+			],
+			[
+				"DL",
+				"DLs"
+			],
+			[
+				"sear",
+				"searchResults"
+			],
+			[
+				"searc",
+				"searchResults"
+			],
+			[
+				"get",
+				"getAlbum"
+			],
+			[
+				"in",
+				"inputCMD"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"valu",
+				"values"
+			],
+			[
+				"mes",
+				"message"
+			],
+			[
+				"dono",
+				"donorList"
+			],
+			[
+				"don",
+				"donorList"
+			],
+			[
+				"donor",
+				"donorSheet"
+			],
+			[
+				"emai",
+				"emailMessage"
+			],
+			[
+				"mess",
+				"message2"
+			],
+			[
+				"messa",
+				"message"
+			],
+			[
+				"subj",
+				"subjectLine"
+			],
+			[
+				"find_elem",
+				"find_element_by_class_name"
+			],
+			[
+				"board",
+				"BOARD_WIDTH"
+			],
+			[
+				"boar",
+				"board"
+			],
+			[
+				"true",
+				"True"
+			],
+			[
+				"catind",
+				"catIndex"
+			],
+			[
+				"time",
+				"timeArray"
+			],
+			[
+				"tim",
+				"timeArray"
+			],
+			[
+				"login",
+				"loginData"
+			],
+			[
+				"getCL",
+				"getClassLinks"
+			],
+			[
+				"getClass",
+				"getClassData"
+			],
+			[
+				"hre",
+				"hrefAllLinks"
+			],
+			[
+				"grade",
+				"gradeIndex"
+			],
+			[
+				"is",
+				"isinstance"
+			],
+			[
+				"den",
+				"denIndices"
+			],
+			[
+				"CALSS",
+				"classAnalysis"
+			],
+			[
+				"new",
+				"newWorksheet"
+			],
+			[
+				"clas",
+				"classes"
+			],
+			[
+				"cat",
+				"catNames"
+			],
+			[
+				"prin",
+				"printGrades"
+			],
+			[
+				"mor",
+				"morgIndex"
+			],
+			[
+				"com",
+				"composeMail"
+			],
+			[
+				"find_",
+				"find_element_by_class_name"
+			],
+			[
+				"all",
+				"allAssignments"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"ca",
+				"categories2"
+			],
+			[
+				"getU",
+				"getUserLogin"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"le",
+				"legitimateInput"
+			],
+			[
+				"sh",
+				"schoolCheck"
+			],
+			[
+				"sch",
+				"schoolYear"
+			],
+			[
+				"schoo",
+				"schoolCheck"
+			],
+			[
+				"getCl",
+				"getClassLinks"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"file",
+				"fileName"
+			],
+			[
+				"check",
+				"checkEqual"
+			],
+			[
+				"updat",
+				"updateHistoryInitial"
+			],
+			[
+				"PS",
+				"PSAnalysis"
+			],
+			[
+				"assig",
+				"assignments"
+			],
+			[
+				"index",
+				"indexB"
+			],
+			[
+				"inde",
+				"indexA"
+			],
+			[
+				"row",
+				"rowElements"
+			],
+			[
+				"EX",
+				"EX_KEY"
+			],
+			[
+				"eX",
+				"EX_KEY"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 183.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 520.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Python Projects/reinforcement-learning-car-1.0.0/playing.py",
+		"/D/Python Projects/wifi_restart_config.py",
+		"/D/Python Projects/Wifi Restart.py",
+		"/D/Python Projects/00COMPLETED00/Grade Checker/GradeCheck.py",
+		"/D/Python Projects/00COMPLETED00/Grade Checker/v 1.0 (Selenium)/PowerSchoolAnalysis.py",
+		"/D/Python Projects/00COMPLETED00/Grade Checker/GradeUpdaterRequest.py",
+		"/D/Python Projects/00COMPLETED00/Grade Checker/v 1.0 (Selenium)/Grade Update Checker.py",
+		"/D/Github/PowerSchool-Analyzer/v2.0 (BS4)/requestTester.py",
+		"/D/Github/PowerSchool-Analyzer/v2.0 (BS4)/cleanTableR.py",
+		"/D/Github/PowerSchool-Analyzer/v2.0 (BS4)/GradeUpdaterRequest.py",
+		"/D/Github/PowerSchool-Analyzer/README.md",
+		"/D/Github/PowerSchool-Analyzer/v2.0 (BS4)/Datareader.py",
+		"/D/Python Projects/00COMPLETED00/Business/README.md",
+		"/D/Python Projects/00COMPLETED00/Grade Checker/downGrader.py",
+		"/D/Python Projects/00COMPLETED00/Grade Checker/chartTester.py",
+		"/D/Python Projects/00COMPLETED00/Business/SurveyFiller.py",
+		"/D/Python Projects/00COMPLETED00/Grade Checker/loginData.py",
+		"/D/Python Projects/00COMPLETED00/Grade Checker/requestTester.py",
+		"/C/Users/JaeYoon/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Default (Windows).sublime-keymap",
+		"/C/Users/JaeYoon/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/JaeYoon/Desktop/Sub.py",
+		"/C/Users/JaeYoon/AppData/Local/Temp/Temp1_HaliteClient.zip/hlt_client/setup.py",
+		"/C/Users/JaeYoon/Desktop/Halite II/Halite2_Python3_Windows/README.MD",
+		"/C/Users/JaeYoon/AppData/Local/Temp/Temp2_HaliteClient.zip/hlt_client/setup.py",
+		"/D/Python Projects/00COMPLETED00/Grade Checker/admin.py",
+		"/D/Python Projects/00COMPLETED00/Grade Checker/v 1.0 (Selenium)/Datareader.py",
+		"/D/Github/PowerSchool-Analyzer/PowerSchoolAnalysis.py",
+		"/D/Python Projects/00COMPLETED00/Grade Checker/v 1.0 (Selenium)/morgan.py",
+		"/D/Python Projects/00COMPLETED00/Grade Checker/v 1.0 (Selenium)/printGrades.py",
+		"/D/Python Projects/00COMPLETED00/Grade Checker/v 1.0 (Selenium)/linkGetter.py",
+		"/D/Python Projects/00COMPLETED00/Grade Checker/v 1.0 (Selenium)/tester.py",
+		"/D/Python Projects/00COMPLETED00/Grade Checker/v 1.0 (Selenium)/cleanTable.py",
+		"/D/Python Projects/00COMPLETED00/Grade Checker/v 1.0 (Selenium)/PowerSchoolAnalysis.v2.py",
+		"/D/Python Projects/00COMPLETED00/Grade Checker/v 1.0 (Selenium)/PowerSchoolAnalysis.v.0.py",
+		"/D/Python Projects/00COMPLETED00/Grade Checker/v 1.0 (Selenium)/PowerSchoolAnalysis.pydd",
+		"/D/Python Projects/00COMPLETED00/Grade Checker/cleanTableR.py",
+		"/D/Python Projects/Grade Checker/cleanTableR.py",
+		"/D/Python Projects/Grade Checker/Datareader.py",
+		"/D/Python Projects/Grade Checker/requestTester.py",
+		"/D/Python Projects/Grade Checker/GradeUpdaterRequest.py",
+		"/C/Users/JaeYoon/AppData/Local/Temp/Temp1_Grade Checker.zip/admin.py",
+		"/C/Users/JaeYoon/AppData/Local/Temp/Temp1_Grade Checker.zip/chartTester.py",
+		"/C/Users/JaeYoon/AppData/Local/Temp/Temp1_Grade Checker.zip/cleanTableR.py",
+		"/C/Users/JaeYoon/AppData/Local/Temp/Temp1_Grade Checker.zip/Datareader.py",
+		"/C/Users/JaeYoon/AppData/Local/Temp/Temp1_Grade Checker.zip/downGrader.py",
+		"/C/Users/JaeYoon/AppData/Local/Temp/Temp1_Grade Checker.zip/GradeCheck.py",
+		"/C/Users/JaeYoon/AppData/Local/Temp/Temp1_Grade Checker.zip/GradeUpdaterRequest.py",
+		"/C/Users/JaeYoon/AppData/Local/Temp/Temp1_Grade Checker.zip/loginData.py",
+		"/C/Users/JaeYoon/AppData/Local/Temp/Temp1_Grade Checker.zip/test.py",
+		"/C/Users/JaeYoon/AppData/Local/Temp/Temp1_Grade Checker.zip/requestTester.py",
+		"/C/Users/JaeYoon/Desktop/reinforcement-learning-car-1.0.0/playing.py",
+		"/D/Python Projects/Grade Checker/test.py",
+		"/D/Python Projects/Grade Checker/chartTester.py",
+		"/D/Python Projects/Grade Checker/downGrader.py",
+		"/D/Python Projects/Grade Checker/v 1.0 (Selenium)/cleanTable.py",
+		"/D/Python Projects/Grade Checker/GradeCheck.py",
+		"/D/Python Projects/Grade Checker/GradeCheck.bat",
+		"/D/Python Projects/Mouse Mover/EndlessLake.py",
+		"/D/Python Projects/Mouse Mover/MouseTest.py",
+		"/D/SSP/OD Programs/OD3.py",
+		"/D/SSP/OD Programs/OD2.py",
+		"/D/SSP/OD Programs/OD1.py",
+		"/C/Users/JaeYoon/Anaconda3/Scripts/anaconda-script.py",
+		"/D/Python Projects/Mouse Mover/game.png",
+		"/D/Python Projects/Google Forms/Endlosung der Lehrerfrage 3.0.py",
+		"/D/Python Projects/Google Forms/Endlosungv4.py",
+		"/D/Python Projects/k2nblog/k2nBbog.py",
+		"/D/Python Projects/BloodDrive/BloodDrive.py",
+		"/D/Python Projects/Grade Checker/v 1.0 (Selenium)/PowerSchoolAnalysis.py",
+		"/D/Python Projects/Email/emailSpam.py",
+		"/D/Python Projects/k2nblog/tester.py",
+		"/D/Jae Yoon/School/2 CS 34/Course 2/03_divide_and_conquer_starter_files/sorting/sorting.py",
+		"/D/Jae Yoon/School/2 CS 34/Course 2/03_divide_and_conquer_starter_files/points_and_segments/points_and_segments.py",
+		"/D/Jae Yoon/School/2 CS 34/Course 2/03_divide_and_conquer_starter_files/majority_element/majority_element.py",
+		"/D/Jae Yoon/School/2 CS 34/Course 2/03_divide_and_conquer_starter_files/inversions/inversions.py",
+		"/D/Jae Yoon/School/2 CS 34/Course 2/03_divide_and_conquer_starter_files/dot_product/dot_product.py",
+		"/D/Jae Yoon/School/2 CS 34/Course 2/03_divide_and_conquer_starter_files/binary_search/binary_search.py",
+		"/D/Jae Yoon/School/2 CS 34/Course 2/02_greedy_algorithms_starter_files/fractional_knapsack/fractional_knapsack.py",
+		"/D/Jae Yoon/School/2 CS 34/Course 2/02_greedy_algorithms_starter_files/dot_product/dot_product.py",
+		"/D/Jae Yoon/School/2 CS 34/Course 2/02_greedy_algorithms_starter_files/covering_segments/covering_segments.py",
+		"/D/Jae Yoon/School/2 CS 34/Course 2/02_greedy_algorithms_starter_files/different_summands/different_summands.py",
+		"/D/Jae Yoon/School/2 CS 34/Course 2/02_greedy_algorithms_starter_files/largest_number/largest_number.py",
+		"/D/Jae Yoon/School/2 CS 34/Course 2/02_greedy_algorithms_starter_files/change/change.py",
+		"/D/Jae Yoon/School/2 CS 34/Course 2/tester.py",
+		"/C/Windows/System32/cmd.exe",
+		"/D/Python Projects/Tetris/tetris.py",
+		"/D/Backups/Hangouts.json",
+		"/D/Python Projects/Grade Checker/admin.py",
+		"/D/Python Projects/Grade Checker/loginData.py",
+		"/D/Python Projects/subtitleEncodeChanger.py",
+		"/D/Python Projects/smiEncoder.py",
+		"/D/Python Projects/DeepSixed.py",
+		"/D/Python Projects/gradeGetter.py",
+		"/D/Python Projects/emailSpam.py",
+		"/D/Python Projects/dictionary.py",
+		"/D/Python Projects/badWords.py",
+		"/D/Python Projects/tester.py",
+		"/D/Python Projects/hackMorganRandom.py",
+		"/D/Python Projects/hackMorgan.py",
+		"/D/Python Projects/arrayTester.py",
+		"/D/Python Projects/checkFalse.py",
+		"/D/Python Projects/checkSelenium.py",
+		"/D/Python Projects/convert.py",
+		"/D/Python Projects/morgan.py",
+		"/D/Python Projects/Endlosung der Lehrerfrage 3.0.py",
+		"/D/Python Projects/linkGetter.py",
+		"/D/Python Projects/loadChecker.py",
+		"/D/Python Projects/printGrades.py",
+		"/D/Python Projects/stringBooleanCheck.py",
+		"/D/Python Projects/cleanTable.py",
+		"/D/Python Projects/Datareader.py",
+		"/D/Python Projects/cleanTableR.py",
+		"/D/Python Projects/GradeUpdaterRequest.py",
+		"/D/Python Projects/requestTester.py",
+		"/D/Python Projects/Corrupted.log",
+		"/D/Python Projects/GUC.py",
+		"/D/Python Projects/PowerSchoolAnalysis.py",
+		"/D/Python Projects/arrayChecker.py",
+		"/D/Python Projects/Grade Update Checker.py",
+		"/C/Users/JaeYoon/.jupyter/jupyter_notebook_config.py",
+		"/C/Users/JaeYoon/Desktop/Python Projects/arrayTester.py",
+		"/C/Users/JaeYoon/Desktop/Python Projects/Datareader.py",
+		"/C/Users/JaeYoon/Desktop/Python Projects/PowerSchoolAnalysis.py",
+		"/C/Users/JaeYoon/Desktop/Python Projects/Grade Update Checker.py",
+		"/C/Users/JaeYoon/Desktop/Python Projects/cleanTable.py",
+		"/C/Users/JaeYoon/Desktop/Python Projects/printGrades.py",
+		"/C/Users/JaeYoon/Desktop/Python Projects/Build output2",
+		"/C/Users/JaeYoon/Documents/PowerSchoolAnalysis.py"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"print",
+			"print(",
+			"userInput",
+			"fileName",
+			"np",
+			"np.",
+			"getFileName",
+			"2017",
+			"2016",
+			"pep8",
+			"2017",
+			"2016",
+			"2017",
+			"2016",
+			"2017",
+			"2016",
+			"2017",
+			"2016",
+			"Time",
+			"time",
+			"1 pt is worth",
+			"userin",
+			"getclassnames",
+			"exportXL",
+			"getClassLinks",
+			"getass",
+			"i",
+			"categories",
+			"morgoVariable",
+			"XLName",
+			"Layout",
+			"date",
+			"datetime",
+			"loaddat",
+			"exportXL",
+			"updateHistory",
+			"grades",
+			"akkctr",
+			"130",
+			"sc2ang",
+			"exportXL",
+			"embedup",
+			"embed",
+			"embedupload",
+			"embed",
+			"gs",
+			"mediafire",
+			"jackson",
+			"donorList",
+			"css",
+			"exclude",
+			"chart1",
+			"legend",
+			"catindex",
+			"catIn",
+			"numCat",
+			"grades",
+			"getClassData",
+			"PSAnalysis",
+			"getClassData",
+			"PSAnalysis",
+			"getAssignmentRow",
+			"img",
+			"getXLName",
+			"xa0",
+			"xa",
+			"legend",
+			"th2",
+			"form",
+			"classAnalysis",
+			"getClassData",
+			"print",
+			"getupdatehistory",
+			"getupdate",
+			"fileName",
+			"getclass",
+			"'Grades.xlsx'",
+			"xlwt",
+			"PSAnalysis",
+			"print",
+			"allAssignments",
+			"getClassNames",
+			"classes",
+			"morgo",
+			"'E'",
+			"grades",
+			"loadData",
+			"grades",
+			"Got",
+			"|",
+			"\\n ",
+			"\\*",
+			"*",
+			"\\\\",
+			"div",
+			"den",
+			"]):\n",
+			"for",
+			"filename",
+			"userinput",
+			"getClasses",
+			"a",
+			"getClassLinks",
+			"classlink",
+			"gradeLinks",
+			"gradeIndex",
+			"cleantable",
+			"print",
+			"k",
+			"txt",
+			"rate"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"2016",
+			"2015",
+			"2016",
+			"2015",
+			"2016",
+			"2015",
+			"2016",
+			"2015",
+			"2016",
+			"2015",
+			"uHist",
+			"jumpCTR",
+			"donorSheet",
+			"chart",
+			"getClassLinks",
+			"getAssignments",
+			"getCategories",
+			"grades",
+			"period",
+			"classLinks",
+			"\\n",
+			"hrs/wk",
+			"hr/wk",
+			"\\n",
+			"den",
+			"num",
+			"classLinks",
+			"getClasses",
+			"classLinks"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 70.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 326.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Messenger-Games.sublime-project",
+	"replace":
+	{
+		"height": 114.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Python Projects\\Facebook Eraser\\Facebook Eraser.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
